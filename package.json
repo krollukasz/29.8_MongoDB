@@ -1,0 +1,19 @@
+{
+  "name": "29.8_mongodb",
+  "version": "1.0.0",
+  "description": "MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Introduction",
+    "Learning"
+  ],
+  "author": "Łukasz Król",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.5.9"
+  }
+}
